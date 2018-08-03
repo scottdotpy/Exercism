@@ -1,5 +1,10 @@
 # Exercism.io Solutions
+A link to [Exercism.io](https://www.exercism.io "Exercism.io")
+
 ## Python
+
+You can view Python exercises [here](https://exercism.io/tracks/python/exercises "Python exercises").
+
 #### Hello World
 
 ```python
