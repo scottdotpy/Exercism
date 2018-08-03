@@ -1,2 +1,9 @@
+# leap
+# Scott @ scottdotpy
+# 03 August 2018
+
+# Functions ---------------------------------------------------------------- #
+
+
 def is_leap_year(year):
-    pass
+    return year % 4 == 0 and (year % 100 != 0 or year % 400 == 0)
